@@ -13,7 +13,13 @@ DOI_URL:
 
 1) Who are you and what is your research field? Include your name, affiliation, discipline, and the background or context of your overall research that is necessary specifically to introduce your specific case study.
 
+Hi, I am Maura Lievano, graduate student at the Goldman School of Public Policy, at UC Berkeley. My research focus is on criminal justice and want to answer questions such as why people commit crime and how institutions delivered different forms of punishment. Currently, I am working on identifying applications of machine learning methods to criminology classic questions, for example, under what circumstances individuals commit crime and how can we control it?
+
+
 2) Define what the term "reproducibility" means to you generally and/or in the particular context of your case study.
+
+I conceptualize reproducibility as the set of steps of a research project (or "project algorithm")  that lead from the beggining stage of data collection to the end stage of publication in a research process. 
+
 
 ##### Workflow diagram
 

@@ -1,10 +1,10 @@
 ---
-AuthorName:
-Affiliation:
-WorkflowTitle:
-WorkflowDiagramURL:
-Discipline:
-Software:
+AuthorName: Maura Lievano
+Affiliation: Goldman School of Public Policy, UC Berkeley
+WorkflowTitle: My future QP
+WorkflowDiagramURL: https://www.draw.io/#G0B_4tcTDMtZZUd3g4ZTlzb1NhTFk
+Discipline: Public Policy
+Software: R
 DOI_URL:
 ---
 
